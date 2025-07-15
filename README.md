@@ -7,7 +7,7 @@ It was created as part of my full-stack web development learning journey (Day 2 
 
 ## 🌐 Live Website
 
-👉 [Click here to view the live project]()  
+👉 [Click here to view the live project](https://fahadsirkazi2006.github.io/profile-card/)  
 
 ---
 
