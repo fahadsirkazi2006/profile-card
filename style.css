@@ -7,14 +7,25 @@ body {
     height: 100vh;
     background-color:rgb(243, 232, 232);
 }
+@keyframes slideIn {
+  0% {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
 
 .card{
     background-color: white;
     padding: 2rem;
     border-radius: 20px;
-    box-shadow:6px;
+    box-shadow:0 4px 12px rgba(0,0,0,0.1);
     text-align: center;
     width: 300px;
+    animation: slideIn 2.6s ease-out;
 }
 
 .card img  {
@@ -39,3 +50,19 @@ body {
     height: 50px;
     margin-top: 2;
 }
+
+.social a{
+    display: inline-block;
+    margin-top: 2;
+    transition: transform 0.2s ease,color 0.2s ease;
+}
+
+.social a:hover{
+    transform: scale(1.2);
+    color:aquamarine;
+    rotate: 18deg;
+    text-shadow: 10px;
+}
+
+
+
