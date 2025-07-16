@@ -31,3 +31,15 @@ It was created as part of my full-stack web development learning journey (Day 2 
 - GitHub Pages for deployment
 
 ---
+---
+
+## 📱 Responsive Design
+
+This profile card is fully responsive and works on all screen sizes.  
+Media queries and relative CSS units (`%`, `rem`, `max-width`) were used to ensure a clean and readable layout on phones, tablets, and desktops.
+
+Tested on:
+- Mobile phones
+- Chrome DevTools
+- GitHub Pages live preview
+
