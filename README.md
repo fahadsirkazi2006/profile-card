@@ -1,45 +1,31 @@
-# 👤 Profile Card – HTML & CSS Project
+# 🌟 Profile Card Project
 
-This is a clean, responsive profile card built using only HTML and CSS.  
-It was created as part of my full-stack web development learning journey (Day 2 – Frontend Foundation).
+This is a responsive **Profile Card** web project built using **HTML**, **CSS**, and **JavaScript** as part of my Full-Stack Web Development Learning Journey (Day 1 to Day 5).
 
----
+## 📌 Features
 
-## 🌐 Live Website
+- Clean, modern layout using Flexbox
+- Responsive design for all screen sizes
+- Smooth popup animation on page load
+- Interactive button using JavaScript
+- Hover effects and smooth transitions
+- Customized button styling
+- Live GitHub Pages deployment
 
-👉 [Click here to view the live project](https://fahadsirkazi2006.github.io/profile-card/)  
-
----
-
-## 📸 Features
-
-- Fully centered layout using Flexbox
-- Clean, modern UI with rounded corners and shadow
-- Profile photo with circular styling
-- Name, short bio, and social media icons
-- Responsive and mobile-friendly layout (coming soon!)
-
----
-
-## 🛠️ Built With
+## 🛠️ Tech Stack
 
 - HTML5
-- CSS3
-- Flexbox
-- VS Code
-- Git & GitHub
-- GitHub Pages for deployment
+- CSS3 (Flexbox, Transitions)
+- JavaScript (DOM Manipulation)
 
----
----
 
-## 📱 Responsive Design
 
-This profile card is fully responsive and works on all screen sizes.  
-Media queries and relative CSS units (`%`, `rem`, `max-width`) were used to ensure a clean and readable layout on phones, tablets, and desktops.
+> Replace with an actual screenshot of your profile card UI.
 
-Tested on:
-- Mobile phones
-- Chrome DevTools
-- GitHub Pages live preview
+## 🔗 Live Demo
+
+👉 [Click here to view the live project](https://fahadsirkazi2006.github.io/profile-card/)
+
+
+
 
