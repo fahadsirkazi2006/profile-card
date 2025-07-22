@@ -23,4 +23,25 @@ button.addEventListener("click",function(){
  }
 });
 
+let lightBtn=document.getElementById("lightBtn");
+let darkBtn= document.getElementById("darkBtn");
+let card=document.querySelector(".card");
 
+lightBtn.addEventListener("click",function(){
+   card.style.backgroundColor = "#ffffff";
+   card.style.color = "#333333";
+   console.log("light theme is on");
+   document.body.style.backgroundColor="rgb(243, 232, 232)";
+   document.body.style.color="rgb(243, 232, 232)";
+   
+   
+});
+
+darkBtn.addEventListener("click",function(){
+   card.style.backgroundColor = "hsla(0, 0%, 0%, 1.00)";
+   card.style.color = "#fffefeff";
+   console.log("dark mode is on");
+   document.body.style.backgroundColor="#4f4b4bff";
+   document.body.style.color="#4f4b4bff";
+
+});

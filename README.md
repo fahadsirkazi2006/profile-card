@@ -1,26 +1,29 @@
-# 🌟 Profile Card Project
+# 🧑🏻‍💻 Interactive Profile Card - HTML | CSS | JavaScript
 
-This is a responsive **Profile Card** web project built using **HTML**, **CSS**, and **JavaScript** as part of my Full-Stack Web Development Learning Journey (Day 1 to Day 5).
+This is a responsive, interactive profile card project created using **HTML**, **CSS**, and **JavaScript** as part of my web development learning journey.
 
-## 📌 Features
+## 🌟 Features
 
-- Clean, modern layout using Flexbox
-- Responsive design for all screen sizes
-- Smooth popup animation on page load
-- Interactive button using JavaScript
-- Hover effects and smooth transitions
-- Customized button styling
-- Live GitHub Pages deployment
+- 👋 **Greeting alert** when the page loads.
+- 🖼️ **Responsive design** that works across screen sizes.
+- 👨‍💻 **Dynamic text updates** on button click.
+- 🎨 **Light/Dark theme toggle** with JavaScript.
+- 📜 Clean and readable code using best practices.
+- 🎯 Smooth user experience with styled buttons and transitions.
 
-## 🛠️ Tech Stack
+## 💻 Technologies Used
 
 - HTML5
-- CSS3 (Flexbox, Transitions)
-- JavaScript (DOM Manipulation)
+- CSS3 (Flexbox + Media Queries)
+- JavaScript (DOM Manipulation + Event Listeners)
 
+## 🔧 Functionality
 
+- On load, an alert welcomes the user.
+- A message updates with new profile info on each click.
+- Light and dark mode can be toggled via buttons.
+- Background color and card style change according to theme.
 
-> Replace with an actual screenshot of your profile card UI.
 
 ## 🔗 Live Demo
 
