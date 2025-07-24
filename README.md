@@ -8,6 +8,7 @@ This is a responsive, interactive profile card project created using **HTML**, *
 - 🖼️ **Responsive design** that works across screen sizes.
 - 👨‍💻 **Dynamic text updates** on button click.
 - 🎨 **Light/Dark theme toggle** with JavaScript.
+- 🔼 **TOGGLE info BUTTON**with javascript
 - 📜 Clean and readable code using best practices.
 - 🎯 Smooth user experience with styled buttons and transitions.
 
@@ -23,6 +24,7 @@ This is a responsive, interactive profile card project created using **HTML**, *
 - A message updates with new profile info on each click.
 - Light and dark mode can be toggled via buttons.
 - Background color and card style change according to theme.
+-toggle info to see a hidden message 
 
 
 ## 🔗 Live Demo
