@@ -1,4 +1,4 @@
-alert("welcome to my profile car!")
+alert("welcome to my profile card!")
 
 
 let msg=document.getElementById("message");
