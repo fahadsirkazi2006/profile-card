@@ -45,3 +45,11 @@ darkBtn.addEventListener("click",function(){
    document.body.style.color="#4f4b4bff";
 
 });
+
+let toggleBtn=document.getElementById("toggleBtn");
+let hiddenInfo=document.getElementById("hidden-info");
+
+toggleBtn.addEventListener("click",function(){
+hiddenInfo.classList.toggle("hidden");
+
+});
